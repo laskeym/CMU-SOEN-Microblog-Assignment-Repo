@@ -1,4 +1,5 @@
 .ipynb_checkpoints
-
+.tool-versions
 __pycache__/
 env/
+node_modules/
